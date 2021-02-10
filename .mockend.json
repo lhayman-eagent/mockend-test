@@ -5,6 +5,7 @@
     "published": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
+    "test": ["test1", "test2"]
   },
   "Comment": {
     "body": "string",
