@@ -4,8 +4,7 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]",
-    "test": ["test1", "test2"]
+    "comments": "Comment[]"
   },
   "Comment": {
     "body": "string",
